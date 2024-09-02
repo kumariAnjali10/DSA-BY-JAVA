@@ -1,4 +1,4 @@
-
+//To find the middle of the element in a linked list
 public class ListNode {
          int val;
          ListNode next;
